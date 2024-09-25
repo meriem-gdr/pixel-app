@@ -1,1 +1,1 @@
-# Welcome to my Vinted mobile app 👋
+# Welcome to my Pixel app 👋
