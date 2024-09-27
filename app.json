@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "vinted-mobile",
-    "slug": "vinted-mobile",
-    "scheme": "vinted-mobile",
+    "name": "Pixels App",
+    "slug": "pixels-app",
+    "scheme": "pixels-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

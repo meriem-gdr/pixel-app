@@ -1,1 +1,1 @@
-# Welcome to my Pixel app 👋
+# Welcome to my Pixels App 👋
